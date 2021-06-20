@@ -58,7 +58,7 @@ The program runs from a single main method organized outside the project package
 
 For this first version of the program, all data recording is done only in a .txt file
 
-![Entities Diagram]()
+![Entities Diagram](https://github.com/Wow1986CR/Proyecto/blob/master/Diagrama%20de%20Clases%20-%20Proyecto%20OOP.png)
 
 ### Who do I talk to? ###
 
